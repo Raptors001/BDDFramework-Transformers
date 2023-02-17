@@ -79,6 +79,7 @@ public class RetailSteps extends CommonUtility {
 				try {
 					logger.info(option.getText() + " is present ");
 				} catch (StaleElementReferenceException e) {
+
 				}
 				break;
 			}
