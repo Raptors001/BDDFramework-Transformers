@@ -1,4 +1,4 @@
 ui:
    browser: chrome
-   headless: false
+   headless: true
    url: https://tek-retail-ui.azurewebsites.net/
