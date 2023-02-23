@@ -5,7 +5,7 @@ Feature: TEK Retail Application SignIn feature
     Given User is on retail website
     When User click on Sign in option
 
-	
+	@testJenkins
   Scenario: Verify user can sign in into Retail Application
     And User enter email 'phantom.test@gmail.com' and password 'Tek@12345'
     And User click on login button
