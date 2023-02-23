@@ -88,3 +88,40 @@
 2023-02-16 21:42:50,465 - logger_File -INFO - user clicked on All section
 2023-02-16 21:42:50,631 - logger_File -INFO - Automative Parts & Accessories is present 
 2023-02-16 21:42:50,677 - logger_File -INFO - MotorCycle & Powersports is present 
+2023-02-22 20:05:08,098 - logger_File -INFO - user is on retail website
+2023-02-22 20:05:08,103 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-22 20:05:08,281 - logger_File -INFO - user searched for product pokemon
+2023-02-22 20:05:08,384 - logger_File -INFO - the Product is displayed on home page
+2023-02-22 20:05:10,415 - logger_File -INFO - user is on retail website
+2023-02-22 20:05:10,416 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-22 20:05:10,541 - logger_File -INFO - user clicked on All section
+2023-02-22 20:05:10,608 - logger_File -INFO - Electronics is equal to Electronics
+2023-02-22 20:05:10,637 - logger_File -INFO - Computers is equal to Computers
+2023-02-22 20:05:10,665 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-02-22 20:05:10,700 - logger_File -INFO - Sports is equal to Sports
+2023-02-22 20:05:10,729 - logger_File -INFO - Automative is equal to Automative
+2023-02-22 20:05:12,657 - logger_File -INFO - user is on retail website
+2023-02-22 20:05:12,658 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-22 20:05:12,827 - logger_File -INFO - user clicked on All section
+2023-02-22 20:05:12,979 - logger_File -INFO - TV & Video is present 
+2023-02-22 20:05:13,022 - logger_File -INFO - Video Games is present 
+2023-02-22 20:05:15,097 - logger_File -INFO - user is on retail website
+2023-02-22 20:05:15,098 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-22 20:05:15,243 - logger_File -INFO - user clicked on All section
+2023-02-22 20:05:15,427 - logger_File -INFO - Accessories is present 
+2023-02-22 20:05:15,470 - logger_File -INFO - Networking is present 
+2023-02-22 20:05:17,538 - logger_File -INFO - user is on retail website
+2023-02-22 20:05:17,540 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-22 20:05:17,632 - logger_File -INFO - user clicked on All section
+2023-02-22 20:05:17,795 - logger_File -INFO - Smart Home Lightning is present 
+2023-02-22 20:05:17,836 - logger_File -INFO - Plugs and Outlets is present 
+2023-02-22 20:05:19,724 - logger_File -INFO - user is on retail website
+2023-02-22 20:05:19,724 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-22 20:05:19,875 - logger_File -INFO - user clicked on All section
+2023-02-22 20:05:20,057 - logger_File -INFO - Athletic Clothing is present 
+2023-02-22 20:05:20,106 - logger_File -INFO - Exercise & Fitness is present 
+2023-02-22 20:05:22,352 - logger_File -INFO - user is on retail website
+2023-02-22 20:05:22,353 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-22 20:05:22,457 - logger_File -INFO - user clicked on All section
+2023-02-22 20:05:22,633 - logger_File -INFO - Automative Parts & Accessories is present 
+2023-02-22 20:05:22,673 - logger_File -INFO - MotorCycle & Powersports is present 
