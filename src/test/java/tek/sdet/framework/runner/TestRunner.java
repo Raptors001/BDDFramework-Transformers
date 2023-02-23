@@ -8,7 +8,7 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		tags = "@RetailHomePage",
+		tags = "@JenkinsTriggerTest",
 		features = ("classpath:features"),
 		glue = "tek.sdet.framework",
 		dryRun =false, // after done with dry run set the value to false
