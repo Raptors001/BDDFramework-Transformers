@@ -60,6 +60,11 @@
 			<artifactId>log4j</artifactId>
 			<version>1.2.17</version>
 		</dependency>
+		<dependency>
+			<groupId>net.datafaker</groupId>
+			<artifactId>datafaker</artifactId>
+			<version>1.8.0</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<plugins>

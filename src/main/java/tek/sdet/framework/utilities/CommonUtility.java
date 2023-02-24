@@ -84,6 +84,7 @@ public class CommonUtility extends BaseSetup {
         toClear.sendKeys(Keys.CONTROL + "a");
         toClear.sendKeys(Keys.DELETE);
     }
+    
 	
     public void selectByIndex(WebElement ele, int index) {
         Select select = new Select(ele);
