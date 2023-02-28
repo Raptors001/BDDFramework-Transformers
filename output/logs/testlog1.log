@@ -307,3 +307,8 @@
 2023-02-23 21:39:59,062 [main] INFO logger_File - user clicked on Add address option
 2023-02-23 21:39:59,972 [main] INFO logger_File - user filled the new address form with information provided in data table
 2023-02-23 21:40:00,050 [main] INFO logger_File - user clicked on Add your Address button
+2023-02-27 19:16:25,890 [main] INFO logger_File - user is on retail website
+2023-02-27 19:16:25,894 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-02-27 19:16:26,022 [main] INFO logger_File - User clicked on Sign in Option
+2023-02-27 19:16:26,251 [main] INFO logger_File - user entered email test.shaiq@tek.com and password Tek@12345
+2023-02-27 19:16:26,331 [main] INFO logger_File - user clicked on login button
